@@ -1,8 +1,8 @@
 # Learning ChatBot
 
-## O que foi usado aqui?
+## O que foi feito aqui?
 
-- integração com IA usando React Native
+- integração por API com IA usando React Native
 - Promover integração de varias escolas em um unico bot
 - Maior facilidade de acesso a dados seguros
 - Unificação de informação
